@@ -1245,7 +1245,7 @@ p.form-message.error {
       left: 0; }
       .footer-logo .footer-info li .single-info .info-icon i {
         font-size: 18px;
-        color: .footer-logo .footer-info li .single-info .info-icon i theme-color; }
+         }
     .footer-logo .footer-info li .single-info .info-content {
       padding-left: 30px; }
 
